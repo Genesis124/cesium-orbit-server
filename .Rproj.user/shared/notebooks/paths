@@ -1,5 +1,7 @@
 /Users/genesis124/Documents/Dev/Cesium/cesium-orbit-server/.gitignore="64DAA845"
 /Users/genesis124/Documents/Dev/Cesium/cesium-orbit-server/Source/Data/ephemeris.czml="41445CFA"
+/Users/genesis124/Documents/Dev/Cesium/cesium-orbit-server/Source/Data/sampleFlight.czml="AC737EF4"
+/Users/genesis124/Documents/Dev/Cesium/cesium-orbit-server/index.css="B5DD0EDD"
 /Users/genesis124/Documents/Dev/Cesium/cesium-orbit-server/package-lock.json="F3727E95"
 /Users/genesis124/Documents/Dev/Cesium/cesium-orbit-server/server.js="E92F48D7"
 /Users/genesis124/Documents/Dev/Cesium/cesium-workshop/.gitignore="DF12DAFE"
