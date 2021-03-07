@@ -1,0 +1,1 @@
+RuntimeError {name: "RuntimeError", message: "The first CZML packet is required to be the document object.", stack: "Error↵    at new RuntimeError (https://cesium.com/…mjs/releases/1.78/Build/Cesium/Cesium.js:1:81303)"}
